@@ -10,14 +10,14 @@ They are the basis for a link:https://github.com/admin-shell-io/aas-specs-samm[n
 With this approach round-trip is supported.
 
 .AAS Metamodel: HasExtensions
-image::aas-metamodel-extensions.png[AAS Metamodel Extensions.png]
+image::../images/aas-metamodel-extensions.png[AAS Metamodel Extensions.png]
 
 For every element in the SAMM Metamodel a corresponding extension is defined in AAS. The coloring and naming of the different types of concept descriptions in the AASX Package Explorer is aligend with the link:https://eclipse-esmf.github.io/ame-guide/introduction.html[ESMF Aspect Model Editor,window=_blank]. A complete example can be found in link:https://github.com/eclipse-aaspe/package-explorer/tree/main/src/AasxCore.Samm2_2_0/documentation/examples[window=_blank].
 
 The mapping of the SAMM elements to the AAS SubmodelElements is identical to what is described in xref:samm2smt.adoc[SAMM2SMT].
 
 .Code example in AASX Package Explorer: SAMM extensions
-image::code-example-samm-extensions.png[Code Example in AASX Package Explorer: SAMM Extensions]
+image::../images/code-example-samm-extensions.png[Code Example in AASX Package Explorer: SAMM Extensions]
 
 == SAMM Extension
 
