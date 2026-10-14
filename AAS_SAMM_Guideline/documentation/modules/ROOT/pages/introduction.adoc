@@ -92,7 +92,7 @@ These elements allow modeling of both simple and complex asset information in a 
 
 The detailed metamodel specification is available at the link:https://industrialdigitaltwin.io/aas-specifications/IDTA-01001/v3.1/spec-metamodel/overview.html[Overview Metamodel of the Asset Administration Shell,window=_blank] [11].
 
-image::aas-elements-overview.png[Asset Administration Shell elements overview]
+image::../images/aas-elements-overview.png[Asset Administration Shell elements overview]
 
 === Built on standards
 
@@ -145,7 +145,7 @@ With the Semantic Aspect Meta Model (SAMM) you can formalize the following seman
 
 Every element in an Aspect Model is uniquely identified by a URI. The following graphic depicts the elements used for Aspect Models according to the Semantic Aspect Meta Model (SAMM).
 
-image::elements-aspect-model-samm.png[Elements used for Aspect Models according to the Semantic Aspect Meta Model (SAMM)]
+image::../images/elements-aspect-model-samm.png[Elements used for Aspect Models according to the Semantic Aspect Meta Model (SAMM)]
 
 For more information on the SAMM elements used for Aspect Models, refer to the specification itself: link:https://eclipse-esmf.github.io/samm-specification/snapshot/index.html[https://eclipse-esmf.github.io/samm-specification/snapshot/index.html,window=_blank].
 
@@ -182,13 +182,13 @@ For creating Aspect Models and Submodel Templates, that is, for semantic modelin
 
 | *Tool for semantic modeling*
 a|
-image::aspect-model-editor-icon.png[Aspect Model Editor Icon]
+image::../images/aspect-model-editor-icon.png[Aspect Model Editor Icon]
 
 Aspect Model Editor
 
 (ESMF Aspect Model Editor)
 a|
-image::aasx-package-explorer-icon.png[AASX Package Explorer Icon]
+image::../images/aasx-package-explorer-icon.png[AASX Package Explorer Icon]
 
 AASX Package Explorer
 
@@ -238,7 +238,7 @@ Find more information about using the AASX Package Explorer on its Readme page o
 
 link:https://github.com/eclipse-aaspe/package-explorer?tab=readme-ov-file[https://github.com/eclipse-aaspe/package-explorer?tab=readme-ov-file,window=_blank].
 
-image::aasx-package-explorer-interface.png[AASX Package Explorer Interface]
+image::../images/aasx-package-explorer-interface.png[AASX Package Explorer Interface]
 
 == ESMF Aspect Model Editor
 
@@ -285,7 +285,7 @@ For more information on the Aspect Model Editor, refer to the user guide:
 link:https://eclipse-esmf.github.io/ame-guide/introduction.html[https://eclipse-esmf.github.io/ame-guide/introduction.html,window=_blank].
 
 .An Aspect Model (Movement.ttl) displayed in the Aspect Model Editor (screenshot)
-image::aspect-model-editor-interface.png[Aspect Model Editor Interface.png]
+image::../images/aspect-model-editor-interface.png[Aspect Model Editor Interface.png]
 
 [[ESMF-SAMM-CLI]]
 == ESMF SAMM CLI
