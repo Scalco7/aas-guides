@@ -30,7 +30,7 @@ The creators of Submodel template specification are designated as the Asset Admi
 
 .Detailed overview of Asset Administration Shell and related roles xref:bibliography.adoc#bib7[[7\]]
 [[image-detailed-overview-of-asset-administration-shell-and-related-roles]]
-image::image2.png[image2,width=642,height=294]
+image::../images/image2.png[image2,width=642,height=294]
 
 <<image-information-exchange-between-aas-user-applications>> illustrates two the Asset Administration Shell user applications, to use the interoperable Submodel information.
 
@@ -38,7 +38,7 @@ From the viewpoint of the meta model xref:bibliography.adoc#bib6[[6\]], a Submod
 
 .Information exchange between AAS user applications xref:bibliography.adoc#bib7[[7\]]
 [[image-information-exchange-between-aas-user-applications]]
-image::image3.png[image3,width=511,height=180]
+image::../images/image3.png[image3,width=511,height=180]
 
 This document facilitates the creation of Submodel template for the Asset Administration Shell.
 These Submodel templates will allow the Asset Administration Shell responsibles to create and provide standardized models, which represent certain aspects of an asset.
@@ -173,7 +173,7 @@ For the structure of the content for the human-readable part of SMT, the SMT doc
 
 .Sample cover page of a SMT document
 [[image-sample-cover-page-of-a-smt-document]]
-image::image4.png[image4,width=279,height=396]
+image::../images/image4.png[image4,width=279,height=396]
 
 [#idta-document-number]
 === IDTA document number
@@ -258,7 +258,7 @@ It might be useful for very small SMT specifications or for initial proposition 
 
 .Document driven workflow
 [[image-document-driven-workflow]]
-image::image5.png[image5,width=642,height=322]
+image::../images/image5.png[image5,width=642,height=322]
 
 The specification document is in the center of activities.
 The following working steps can be distinguished:
@@ -306,7 +306,7 @@ It was recommended standard for a period of time but is now replaced by the Asci
 
 .Model based workflow
 [[image-model-based-workflow]]
-image::image6.png[image6,width=642,height=322]
+image::../images/image6.png[image6,width=642,height=322]
 
 The SMT model is at the center of activities.
 The following working steps can be distinguished:
@@ -366,7 +366,7 @@ Note: This workflow can be combined with the AsciiDoc workflows (see <<workflow-
 
 .Semantic driven workflow
 [[image-semantic-driven-workflow]]
-image::image7.png[image7,width=642,height=322]
+image::../images/image7.png[image7,width=642,height=322]
 
 The semantic definition of the Submodel itself is in the center of activities.
 A semantic definition of a Submodel is typically a model itself, in short such a model is sometimes called a semantic model.
@@ -431,7 +431,7 @@ To gain full overview, further material, such as demonstration or video training
 
 .Workflow with GitHub based AsciiDoc working draft document
 [[image-workflow-with-github-based-asciidoc-working-draft-document]]
-image::image8.png[image8,width=642,height=322]
+image::../images/image8.png[image8,width=642,height=322]
 
 The SMT model is at the center of activities.
 For the editing of the SMT specification WD, a GitHub repository with dedicated actions is used by all members of the SMT working team.
@@ -508,7 +508,7 @@ To gain a full overview, further material, such as demonstration or video traini
 
 .Workflow with single source AsciiDoc working draft document
 [[image-workflow-with-single-source-asciidoc-working-draft-document]]
-image::image9.png[image9,width=642,height=322]
+image::../images/image9.png[image9,width=642,height=322]
 
 The SMT model is at the center of activities.
 It contains two Submodels: one Submodel stands for the Submodel template and Submodel template elements.
@@ -595,7 +595,7 @@ Note: idShort names might be changed as well as shown in the example in <<image-
 
 .General approach for definition and use of SMT dropins
 [[image-general-approach-for-definition-and-use-of-smt-dropins]]
-image::image10.png[image10,width=642,height=259]
+image::../images/image10.png[image10,width=642,height=259]
 
 [#process]
 === Process
@@ -618,7 +618,7 @@ This is recommended practice for the SMT process.
 
 .Alternatives for organizing SMT dropins
 [[image-alternatives-for-organizing-smt-dropins]]
-image::image11.png[image11,width=642,height=352]
+image::../images/image11.png[image11,width=642,height=352]
 
 [#handling-of-semanticids]
 === Handling of semanticIds
@@ -656,7 +656,7 @@ However, this semanticId is independent from the semanticId of the root Submodel
 
 .Example for SMT dropin definition
 [[image-example-for-smt-dropin-definition]]
-image::image12.png[image12,width=642,height=247]
+image::../images/image12.png[image12,width=642,height=247]
 
 [#publication-of-smt-dropins]
 === Publication of SMT dropins
@@ -696,15 +696,15 @@ Note: Note to (2): This can be accomplished e.g. by setting the description of t
 
 .Example for use of SMT dropin in SMT model
 [[image-example-for-use-of-smt-dropin-in-smt-model]]
-image::image13.png[image13,width=642,height=238]
+image::../images/image13.png[image13,width=642,height=238]
 
 .Example for use of SMT dropin in SMT specification tables
 [[image-example-for-use-of-smt-dropin-in-smt-specification-tables]]
-image::image14.png[image14,width=642,height=235]
+image::../images/image14.png[image14,width=642,height=235]
 
 .Example for use of SMT dropin in UML by UML stereotype (recommended)
 [[image-example-for-use-of-smt-dropin-in-uml-by-uml-stereotype-recommended]]
-image::image16.svg[image16,width=642,height=298]
+image::../images/image16.svg[image16,width=642,height=298]
 
 [#degrees-of-flexibility-when-using-a-smt-dropin]
 === Degrees of flexibility when using a SMT dropin
@@ -816,7 +816,7 @@ Note 3: The shown example required about 10 min design time.
 
 .Example UML generation by exporting XMI and manual layout in UML authoring tool
 [[image-example-uml-generation-by-exporting-xmi-and-manual-layout-in-uml-authoring-tool]]
-image::image17.png[image17,width=642,height=439]
+image::../images/image17.png[image17,width=642,height=439]
 
 [#uml-via-plantuml-export]
 === UML via PlantUML export
@@ -845,7 +845,7 @@ Note 3: The shown example required about 15 sec design time.
 
 .Example UML generation by exporting to PlantUML and automatic layout
 [[image-example-uml-generation-by-exporting-to-plantuml-and-automatic-layout]]
-image::image19.svg[image19,width=642,height=368]
+image::../images/image19.svg[image19,width=642,height=368]
 
 [#generic-forms-preset]
 == Generic forms preset
@@ -859,7 +859,7 @@ This allows also non-expert users to provide subject matter information to the A
 
 .AASX Package Explorer offering the easy filling out of Submodel "Nameplate"
 [[image-aasx-package-explorer-offering-the-easy-filling-out-of-submodel-nameplate]]
-image::image20.png[image20,width=642,height=641]
+image::../images/image20.png[image20,width=642,height=641]
 
 [#attribution-of-a-smt]
 === Attribution of a SMT
@@ -883,7 +883,7 @@ The architect and IDTA office will also check if the Submodel and its generic fo
 
 .Plugin folder for Generic forms
 [[image-plugin-folder-for-generic-forms]]
-image::image21.png[image21,width=642,height=349]
+image::../images/image21.png[image21,width=642,height=349]
 
 [#table-format-for-submodels-and-submodelelements, reftext="Table format for Submodels and SubmodelElements"]
 == Table format for Submodels and SubmodelElements
@@ -907,7 +907,7 @@ Typically, but not exclusively, these are Submodels and SubmodelElementCollectio
 
 .Format of table heads
 [[image-format-of-table-heads]]
-image::image22.png[image22,width=642,height=212]
+image::../images/image22.png[image22,width=642,height=212]
 
 <<image-format-of-table-heads>> shows the format of the heading part of such table.
 For the different rows, the following provisions are given by <<table-format-of-table-heads>>:
@@ -963,7 +963,7 @@ The import tools of AASX Package Explorer rely on this.
 
 .Format of table row items
 [[image-format-of-table-row-items]]
-image::image23.png[image23,width=642,height=376]
+image::../images/image23.png[image23,width=642,height=376]
 
 <<image-format-of-table-row-items>> shows the format of the individual row items of such table.
 For the different row items, the following provisions are given by <<table-format-of-table-row-items>>:
@@ -1040,11 +1040,11 @@ For example, see <<image-templateid-and-semanticid-of-an-smt>> and <<image-submo
 
 .TemplateId and semanticId of an SMT
 [[image-templateid-and-semanticid-of-an-smt]]
-image::image24.png[image24,width=372,height=200]
+image::../images/image24.png[image24,width=372,height=200]
 
 .Submodel guided by SMT
 [[image-submodel-guided-by-smt]]
-image::image25.png[image25,width=368,height=230]
+image::../images/image25.png[image25,width=368,height=230]
 
 [#qualifers-and-attributes-of-smt-elements]
 == Qualifers and attributes of SMT elements
@@ -1370,7 +1370,7 @@ Example: If a Submodel might describe multiple records, and a single record is d
 
 .Exemplary template idShort attribute for "Record"
 [[image-exemplary-template-idshort-attribute-for-record]]
-image::image26.png[image26,width=642,height=182]
+image::../images/image26.png[image26,width=642,height=182]
 
 [#note-metamodel-sml-idshort-evolution]
 [Note]
@@ -1712,7 +1712,7 @@ The semanticId of a Submodel element template refers to the identifier of such C
 
 .Example of a ConceptDescription in AASX Package Explorer xref:annex/resources.adoc#res3[[R3\]]
 [[image-example-of-a-conceptdescription-in-aasx-package-explorer]]
-image::image27.png[image27,width=642,height=286]
+image::../images/image27.png[image27,width=642,height=286]
 
 The delivery of the SMT shall include all definitions of ConceptDescriptions which relate directly to the usage of the respective SMT.
 In particular, the ConceptDescriptions shall include definitions used in the definition tables described in <<table-row-items>>.
