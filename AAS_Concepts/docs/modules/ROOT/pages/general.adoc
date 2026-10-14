@@ -259,7 +259,7 @@ The Administration Shell also has a unique ID (see <<image-unique-identifier-for
 
 .Unique Identifier for Administration Shell and Asset (Modified Figure from xref:bibliography.adoc#bib4[[4\]])
 [[image-unique-identifier-for-aas-and-asset]]
-image::6-unique-identifier-for-aas-and-asset.jpeg[pdfwidth=20%,scaledwidth=20%]
+image::../images/6-unique-identifier-for-aas-and-asset.jpeg[pdfwidth=20%,scaledwidth=20%]
 
 An Administration Shell represents exactly one asset, with a unique asset ID.
 In a batch-based production, the batches will become the assets and will be described by a respective Administration Shell.
@@ -430,7 +430,7 @@ In an application featuring a resource-oriented architecture (ROA), a worldwide 
 
 .Motivation of Exemplary Identifiers and idShort
 [[image-motiviation-of-exemplary-identifiers-and-idshort]]
-image::7-motiviation-of-exemplary-ids.jpeg[]
+image::../images/7-motiviation-of-exemplary-ids.jpeg[]
 
 To allow such efficient addressing by the chaining of elements by an API of an Administration Shell, _idShort_ is provided for a set of classes of the metamodel.
 It inherits from the abstract class xref:spec-metamodel/common.adoc#referable-attributes[Referable], in order to refer to such dependent elements.
